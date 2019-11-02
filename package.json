@@ -1,0 +1,28 @@
+{
+  "name": "projifyve",
+  "version": "1.0.0",
+  "description": "Bot project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --experimental-modules app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racso-dev/projifyve.git"
+  },
+  "author": "RacsoDev",
+  "contributors": [
+    "Oscar Rénier (https://github.com/racso-dev)"
+  ],
+  "license": "private",
+  "engines": {
+    "node": ">=10.15"
+  },
+  "dependencies": {
+    "chromedriver": "^77.0.0",
+    "fs": "0.0.1-security",
+    "random": "^2.1.1",
+    "selenium-webdriver": "^4.0.0-alpha.5",
+    "sleep": "^6.1.0"
+  }
+}
