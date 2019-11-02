@@ -9,7 +9,7 @@ const credentials = {
     password: '',
 };
 
-const music = 'https://open.spotify.com/track/5vZ9KwJCYVYPIq5ueapXCk';
+const music = '$MUSIC_LINK';
 const sessionName = '$YOUR_SESSION_NAME';
 
 const proxyAddress = '';
